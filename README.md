@@ -19,7 +19,7 @@ To ensure a productive, open, vibrant community, here are a few ground rules:
    could improve the project. When inspiration strikes, go for it! No need to
    wait for a lead to present itself.
 
-3. Pass the ball.
+3. Pass the ball
 
    If you leave or disengage with a project, please take the proper steps to
    ensure that others know how/where to pick up where you left off.
@@ -33,9 +33,24 @@ To ensure a productive, open, vibrant community, here are a few ground rules:
    productive criticism, thoughts, and ideas - assume that everyone here has
    good intention before we respond, or contribute to the group.
 
+5. No discrimination
+
+   You must provide a harassment-free experience for everyone, regardless of
+   age, body size, disability, ethnicity, sex characteristics, gender identity
+   and expression, level of experience, education, socio-economic status,
+   nationality, personal appearance, race, religion, or sexual identity and
+   orientation.
+
 This Code is not complete. It is an inspirational guide to making awesome things
 together. It speaks to the core of the System76 environment, where smart people
 can make really cool things they love.
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at hosting@system76.com. All complaints
+will be reviewed and investigated and will result in a response that is deemed
+necessary and appropriate to the circumstances. The project team is obligated to
+maintain confidentiality with regard to the reporter of an incident. Further
+details of specific enforcement policies may be posted separately.
 
 The System76 Code of Conduct is licensed under the Creative Commons
 Attribution-Share Alike 3.0 license. You may re-use it for your own project, and
@@ -43,6 +58,6 @@ modify it as you wish, just please allow others to use your modifications and
 give credit to the System76, Pop\!\_OS, and Ubuntu Projects.
 
 Our Code of Conduct is based on the
-[Pop\!\_OS Code of Conduct](https://github.com/pop-os/code-of-conduct), which is
-based on the
-[Ubuntu's Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct).
+[Contributor Covenant](https://www.contributor-covenant.org),
+[Pop\!\_OS Code of Conduct](https://github.com/pop-os/code-of-conduct), and the
+[Ubuntu Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct).
